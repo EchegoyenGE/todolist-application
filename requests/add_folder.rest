@@ -1,0 +1,6 @@
+POST http://localhost:3001/api/folders
+Content-Type: application/json
+
+{
+    "folderName": "cosas2"
+}
